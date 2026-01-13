@@ -8,11 +8,11 @@ The project demonstrates both **batch and streaming data processing**, convertin
 
 ---
 ## Project Team
-Rajasekharreddy Kamireddy
-Nikhilavaishnavi Katteboina
-Krishnateja Garampalli
-Sai Ganesh Illapu
-Peddabala Anuja
+- Rajasekharreddy Kamireddy
+- Nikhilavaishnavi Katteboina
+- Krishnateja Garampalli
+- Sai Ganesh Illapu
+- Peddabala Anuja
 
 ## ❓ Problem Statement
 Credit card transactions are generated daily across multiple **cities, card types, and expense categories** for PK&G Finance Company.  
